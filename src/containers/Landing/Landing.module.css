@@ -1,0 +1,7 @@
+.Landing {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}

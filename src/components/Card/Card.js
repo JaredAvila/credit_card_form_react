@@ -1,8 +1,9 @@
 import React from "react";
+import * as classes from "./Card.module.css";
 
 function Card() {
   return (
-    <div>
+    <div className={classes.Card}>
       <p>Card Component</p>
     </div>
   );

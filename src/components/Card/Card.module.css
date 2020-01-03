@@ -1,0 +1,7 @@
+.Card {
+    background: url("../../assets/front.jpeg");
+    height: 180px;
+    width: 320px;
+    border-radius: 6px;
+    box-shadow: 0 8px 18px rgb(94, 94, 94);
+}
